@@ -15,7 +15,7 @@ Deploy config.  If you don't have a ``kotti.configurators`` option,
 add one. ``kotti_contentpreview`` depends on ``kotti_settings``, so you have to
 add also an entry for this add-on. `Here you find out more`_ about ``kotti_settings``.
 The line in your ``[app:main]`` (or ``[app:kotti]``, depending on how
-you setup Fanstatic) section could then look like this::
+you setup Fanstatic) section could then look like this:::
 
     kotti.configurators =
         kotti_settings.kotti_configure
@@ -29,4 +29,4 @@ http://your.domain/@@settings to get to the settingspage or use the submenupoint
 of 'Site Setup'.
 
 .. _Find out more about Kotti: http://pypi.python.org/pypi/Kotti
-.. _Find out more about kotti_settings: http://pypi.python.org/pypi/kotti_settings
+.. _Here you find out more: http://pypi.python.org/pypi/kotti_settings
