@@ -1,7 +1,7 @@
 Changelog
 =========
 
-0.1(Unreleased)
+0.1(2013-05-03)
 ---------------
 
 - Update translations.
