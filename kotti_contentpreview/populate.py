@@ -5,7 +5,7 @@ from kotti_contentpreview import _
 contenpreview_settings = {
     'name': 'contentpreview_settings',
     'title': _(u'Contentpreview settings'),
-    'success_message': _(u'Successfully saved kotti_tagcloud settings.'),
+    'success_message': _(u'Successfully saved kotti_contentpreview settings.'),
     'settings': [
         {'type': 'String',
          'name': 'view_name',

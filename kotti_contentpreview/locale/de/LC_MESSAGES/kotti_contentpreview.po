@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kotti_contentpreview 0.1\n"
 "Report-Msgid-Bugs-To: j23d@jusid.de\n"
-"POT-Creation-Date: 2013-05-03 16:29+0200\n"
+"POT-Creation-Date: 2013-05-03 16:33+0200\n"
 "PO-Revision-Date: 2013-03-13 10:49+0100\n"
 "Last-Translator: Marco Scheidhuber <j23d@jusid.de>\n"
 "Language-Team: de <j23d@jusid.de>\n"
@@ -24,8 +24,8 @@ msgid "Contentpreview settings"
 msgstr "Einstellungen für die Inhaltsvorschau"
 
 #: kotti_contentpreview/populate.py:8
-msgid "Successfully saved kotti_tagcloud settings."
-msgstr "Einstellungen für kotti_tagcloud erfolgreich gespeichert."
+msgid "Successfully saved kotti_contentpreview settings."
+msgstr "Einstellungen für kotti_contentpreview erfolgreich gespeichert."
 
 #: kotti_contentpreview/populate.py:12
 msgid "View name"
