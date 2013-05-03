@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kotti_contentpreview 0.1\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2013-03-13 11:00+0100\n"
+"POT-Creation-Date: 2013-05-03 16:25+0200\n"
 "PO-Revision-Date: 2013-03-13 10:49+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: de <LL@li.org>\n"
@@ -19,18 +19,20 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 0.9.6\n"
 
-#: kotti_contentpreview/populate.py:8
+#: kotti_contentpreview/populate.py:7
 msgid "Contentpreview settings"
 msgstr "Einstellungen für die Inhaltsvorschau"
+
+#: kotti_contentpreview/populate.py:8
+msgid "Successfully saved kotti_tagcloud settings."
+msgstr "Einstellungen für kotti_tagcloud erfolgreich gespeichert."
 
 #: kotti_contentpreview/populate.py:12
 msgid "View name"
 msgstr "View Name"
 
 #: kotti_contentpreview/populate.py:13
-msgid ""
-"The name of the view that should be used\n"
-"                                  to preview the content."
+msgid "The name of the view that should be used to preview the content."
 msgstr "Name der view, die für die Voransicht genutzt werden soll."
 
 #: kotti_contentpreview/populate.py:18
@@ -38,9 +40,7 @@ msgid "Window size"
 msgstr "Fenstergröße"
 
 #: kotti_contentpreview/populate.py:19
-msgid ""
-"Use any css compatible value to set the\n"
-"                                  size of the window."
+msgid "Use any css compatible value to set the size of the window."
 msgstr "CSS kompatible Angabe für die Breite des Vorschaufensters."
 
 #: kotti_contentpreview/populate.py:24
@@ -48,9 +48,7 @@ msgid "Delay show"
 msgstr "Verzögerung beim Anzeigen"
 
 #: kotti_contentpreview/populate.py:25
-msgid ""
-"The delay to show the popup window in\n"
-"                                  milliseconds."
+msgid "The delay to show the popup window in milliseconds."
 msgstr "Die Verzögerung bevor das Fenster erscheint in Millisekunden."
 
 #: kotti_contentpreview/populate.py:30
@@ -58,8 +56,6 @@ msgid "Delay hide"
 msgstr "Verzögerung beim Ausblenden"
 
 #: kotti_contentpreview/populate.py:31
-msgid ""
-"The delay to hide the popup window in\n"
-"                                  milliseconds."
+msgid "The delay to hide the popup window in milliseconds."
 msgstr "Die Verzögerung bevor das Fenster verschwindet in Millisekunden."
 

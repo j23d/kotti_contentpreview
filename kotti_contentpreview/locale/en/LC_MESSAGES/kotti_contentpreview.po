@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kotti_contentpreview 0.1\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2013-03-13 11:00+0100\n"
+"POT-Creation-Date: 2013-05-03 16:25+0200\n"
 "PO-Revision-Date: 2013-03-13 10:49+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: en <LL@li.org>\n"
@@ -19,18 +19,23 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 0.9.6\n"
 
-#: kotti_contentpreview/populate.py:8
+#: kotti_contentpreview/populate.py:7
 msgid "Contentpreview settings"
 msgstr "Contentpreview settings"
+
+#: kotti_contentpreview/populate.py:8
+msgid "Successfully saved kotti_tagcloud settings."
+msgstr ""
 
 #: kotti_contentpreview/populate.py:12
 msgid "View name"
 msgstr "View name"
 
 #: kotti_contentpreview/populate.py:13
-msgid ""
-"The name of the view that should be used\n"
-"                                  to preview the content."
+#, fuzzy
+#| msgid "" "The name of the view that should be used\n" "
+#| to preview the content."
+msgid "The name of the view that should be used to preview the content."
 msgstr "The name of the view that should be used to preview the content."
 
 #: kotti_contentpreview/populate.py:18
@@ -38,9 +43,10 @@ msgid "Window size"
 msgstr "Window size"
 
 #: kotti_contentpreview/populate.py:19
-msgid ""
-"Use any css compatible value to set the\n"
-"                                  size of the window."
+#, fuzzy
+#| msgid "" "Use any css compatible value to set the\n" "
+#| size of the window."
+msgid "Use any css compatible value to set the size of the window."
 msgstr "Use any css compatible value to set the size of the window."
 
 #: kotti_contentpreview/populate.py:24
@@ -48,9 +54,10 @@ msgid "Delay show"
 msgstr "Delay show"
 
 #: kotti_contentpreview/populate.py:25
-msgid ""
-"The delay to show the popup window in\n"
-"                                  milliseconds."
+#, fuzzy
+#| msgid "" "The delay to show the popup window in\n" "
+#| milliseconds."
+msgid "The delay to show the popup window in milliseconds."
 msgstr "The delay to show the popup window in milliseconds."
 
 #: kotti_contentpreview/populate.py:30
@@ -58,8 +65,9 @@ msgid "Delay hide"
 msgstr "Delay hide"
 
 #: kotti_contentpreview/populate.py:31
-msgid ""
-"The delay to hide the popup window in\n"
-"                                  milliseconds."
+#, fuzzy
+#| msgid "" "The delay to hide the popup window in\n" "
+#| milliseconds."
+msgid "The delay to hide the popup window in milliseconds."
 msgstr "The delay to hide the popup window in milliseconds."
 
