@@ -38,7 +38,7 @@ setup(
     zip_safe=False,
     install_requires=[
         'Kotti>=0.9a1',
-        'kotti_settings>=0.1a3',
+        'kotti_settings>=0.1a4',
     ],
     entry_points={
         'fanstatic.libraries': [
