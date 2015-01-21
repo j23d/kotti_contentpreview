@@ -15,7 +15,9 @@ Deploy config.  If you don't have a ``kotti.configurators`` option,
 add one. ``kotti_contentpreview`` depends on ``kotti_settings``, so you have to
 add also an entry for this add-on. `Here you find out more`_ about ``kotti_settings``.
 The line in your ``[app:main]`` (or ``[app:kotti]``, depending on how
-you setup Fanstatic) section could then look like this:::
+you setup Fanstatic) section could then look like this:
+
+.. code-block:: ini
 
     kotti.configurators =
         kotti_settings.kotti_configure
