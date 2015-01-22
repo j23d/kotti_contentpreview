@@ -39,6 +39,7 @@ setup(
     install_requires=[
         'Kotti>=0.9a1',
         'kotti_settings>=0.1a4',
+        'js.deform-bootstrap>=0.2.6',
     ],
     entry_points={
         'fanstatic.libraries': [
